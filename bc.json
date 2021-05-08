@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://gray-bobolink-nuufxtxt.ws-eu03.gitpod.io",
+    "address": "https://moccasin-krill-gbemy42h.ws-eu03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -124,7 +124,7 @@
         {
             "slug": "02.2-maping-array-of-objects-to-li",
             "title": "02.2-maping-array-of-objects-to-li",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-maping-array-of-objects-to-li",
             "translations": [
                 "es",
@@ -157,7 +157,7 @@
         {
             "slug": "03.2-a-real-component",
             "title": "03.2-a-real-component",
-            "done": false,
+            "done": true,
             "path": "exercises/03.2-a-real-component",
             "translations": [
                 "es",
@@ -168,7 +168,7 @@
         {
             "slug": "03.3-component-properties",
             "title": "03.3-component-properties",
-            "done": false,
+            "done": true,
             "path": "exercises/03.3-component-properties",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "03.4-jumbotron",
             "title": "03.4-jumbotron",
-            "done": false,
+            "done": true,
             "path": "exercises/03.4-jumbotron",
             "translations": [
                 "es",
