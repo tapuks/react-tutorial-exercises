@@ -201,7 +201,7 @@
         {
             "slug": "04-conditional-rendering",
             "title": "04-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04-conditional-rendering",
             "translations": [
                 "es",
@@ -212,7 +212,7 @@
         {
             "slug": "04.1-conditional-rendering",
             "title": "04.1-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-conditional-rendering",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
