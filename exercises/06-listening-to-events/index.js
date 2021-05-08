@@ -8,7 +8,7 @@ const clickHandler = e => {
 
 const Alert = props => {
 	return (
-		<button className="btn btn-success btn-lg" onClick="clickHandler();">
+		<button className="btn btn-success btn-lg" onClick={clickHandler}>
 			Click Me
 		</button>
 	);

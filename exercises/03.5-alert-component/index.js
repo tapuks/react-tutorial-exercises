@@ -8,13 +8,13 @@ import PropType from "prop-types";
  */
 const Alert = props => {
 	return (
-		<div class="alert alert-danger" role="alert">
+		<div className="alert alert-danger" role="alert">
 			{props.text}
 		</div>
 	);
 };
 
-Alert.prototypes = {
+Alert.propTypes = {
 	text: PropType.string
 };
 
